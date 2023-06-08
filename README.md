@@ -1,6 +1,5 @@
-<h1>Lucas</h1><br/>
-<span>I love technology and front-end, I'm looking to improve both as soft-skills and as a developer.<span><br/>
-
+<h1>Lucas</h1>
+<span>I love technology and front-end, I'm looking to improve both as soft-skills and as a developer.<span>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascpena&label=Profile%20views&color=0e75b6&style=flat" alt="lucascpena" /> </p>
 
 - 🔭 I’m currently working on **Product Preview card**
